@@ -1,0 +1,7 @@
+ADMINS = [1996601646, 794115978]
+
+BOT_TOKEN = "TOKEN"
+
+QUESTIONNAIRE_FILE = "questionnaire.json"
+
+ANSWERS_FILE = "answers.json"
